@@ -8,3 +8,7 @@ If DB dependency is changed, you have to change `applicationContext.xml` accordi
 
 Run with `mvn package` and it will generate .war file that can be deployed to server container.
 
+You can also run it via IDE (e.g. Intellij with Server configuration).
+
+To see it in action go to `http://localhost:8082/myresource`
+
